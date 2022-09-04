@@ -166,7 +166,7 @@ We will start with using the parameters that are **required** and later implemen
 
 </details>
   
-<details id=3>
+<details id=3 open>
 <summary><h2> Step 3: Create the metadata file</h2></summary>
 
 ## Action metadata
